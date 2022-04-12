@@ -1,4 +1,6 @@
 [core]
-    remote = storage
+    remote = storage12
 ['remote "storage"']
     url = gdrive://1iLsOR6i4ON4qs9pjUv20JfALxi-Ja68A
+['remote "storage12"']
+    url = https://www.internalfb.com/manifold/explorer/automate_gfcad_testtools/tree/testdir16
